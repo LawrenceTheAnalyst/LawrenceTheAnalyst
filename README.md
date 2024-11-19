@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate Data Engineer adept at converting raw data into strategic solutions. Skilled in Python for data manipulation, SQL for insightful queries, and exploring cloud platforms like AWS and GCP. Successfully optimized algorithms, reducing processing time, and developed real-time dashboards for actionable insights. Collaborative team player with strong communication skills. Committed to continuous growth, staying ahead of industry trends, and embracing challenges to maximize impact.
+Passionate Data Engineer adept at converting raw data into strategic solutions. Skilled in Python for data manipulation, SQL for insightful queries, and exploring cloud platforms like AWS, Azure and GCP. Successfully optimized algorithms, reducing processing time, and developed real-time dashboards for actionable insights. Collaborative team player with strong communication skills. Committed to continuous growth, staying ahead of industry trends, and embracing challenges to maximize impact.
 
 
 ## 🌐 Socials:
